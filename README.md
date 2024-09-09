@@ -7,5 +7,5 @@ This is the project page of our paper "MAcST: Multi-Accent Speech Synthesis via 
 
 # Todo
 - [ ] Implementation (we update this upon acceptance of the paper)
-  - Speech sample generation using SPAccenT
+  - Speech sample generation using MAcST
   - A sequence-to-sequence VC Training
