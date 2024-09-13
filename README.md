@@ -9,3 +9,6 @@ This is the project page of our paper "MacST: Multi-Accent Speech Synthesis via 
 - [ ] Implementation (we update this upon acceptance of the paper)
   - Speech sample generation using MacST
   - A sequence-to-sequence VC Training
+
+# Acknowledgement
+- Fantastic Demo Page: [zjlww/diffvoice-web](https://github.com/zjlww/diffvoice-web)
