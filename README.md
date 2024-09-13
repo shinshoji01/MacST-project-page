@@ -11,4 +11,4 @@ This is the project page of our paper "MacST: Multi-Accent Speech Synthesis via 
   - A sequence-to-sequence VC Training
 
 # Acknowledgement
-- Fantastic Demo Page: [zjlww/diffvoice-web](https://github.com/zjlww/diffvoice-web)
+- Fantastic Demo Pages: [zjlww/diffvoice-web](https://github.com/zjlww/diffvoice-web) and [zjlww/ardit-web](https://github.com/zjlww/ardit-web)
