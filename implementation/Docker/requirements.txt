@@ -1,0 +1,8 @@
+jupyterlab==3.5.2
+jupyterlab-vim==0.15.1
+git+https://github.com/openai/whisper.git
+openai==1.35.13
+phonemizer==3.0.1
+pandas==1.5.3
+numpy==1.26.4
+httpx==0.27.2

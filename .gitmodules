@@ -1,0 +1,4 @@
+[submodule "implementation/sho_util"]
+	path = implementation/sho_util
+	url = git@github.com:shinshoji01/sho_util.git
+	branch = main
