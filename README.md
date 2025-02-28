@@ -1,5 +1,9 @@
 This is the project page of our paper "MacST: Multi-Accent Speech Synthesis via Text Transliteration for Accent Conversion". 
 
+![intro](https://github.com/shinshoji01/MacST-project-page/blob/main/images/intro.png)
+
+![diagram](https://github.com/shinshoji01/MacST-project-page/blob/main/images/diagram.png)
+
 # What's available?
 - Paper: [link](https://arxiv.org/abs/2409.09352)
 - Speech Demo: [link](https://shinshoji01.github.io/MacST-Demo/)
