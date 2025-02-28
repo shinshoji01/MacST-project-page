@@ -20,9 +20,3 @@ If you are unfamiliar with Vim, please run the following code before opening Jup
 ```bash
 pip uninstall jupyter-vim
 ```
-
-# Others
-- I use my repository (`sho_util`) in the implementation. Please run the following after you `git clone`.
-```
-git submodule update --init --recursive
-```
